@@ -31,7 +31,7 @@
 您可以通过以下命令安装本库：
 
 ```bash
-pip install 测绘百宝箱
+pip install cehuibaibaoxiang
 ```
 ### 帮助
 在引入库后，运行print(cehuibaibaoxiang.help)即可得到帮助
