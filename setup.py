@@ -9,13 +9,13 @@ from setuptools import setup
 
 setup(
     name="cehuibaibaoxiang",  
-    version="0.1.2",         
+    version="0.1.3.01",         
     author="徐若朴",       
     author_email="2253959@tongji.edu.cn",  
-    description="（自用）同济大学测绘学院专业课代码合集",  
+    description="（自用）本人写的测绘专业课作业代码合集",  
     long_description=open("README.md",encoding="utf-8").read(),  
     long_description_content_type="text/markdown",  
-    url="https://github.com/your_username/your_project",  
+    url="https://github.com/piaopiaoxuruop/cehuibaibaoxiang/tree/main?tab=readme-ov-file",  
     license="MIT",  # 许可证类型
     py_modules=["cehuibaibaoxiang"],  
     classifiers=[
